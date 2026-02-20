@@ -1,0 +1,38 @@
+[
+  {
+    "skill": "pdf",
+    "path": "skills/pdf"
+  },
+  {
+    "skill": "docx",
+    "path": "skills/docx"
+  },
+  {
+    "skill": "xlsx",
+    "path": "skills/xlsx"
+  },
+  {
+    "skill": "pptx",
+    "path": "skills/pptx"
+  },
+  {
+    "skill": "agent-browser",
+    "path": "skills/agent-browser"
+  },
+  {
+    "skill": "browser-use",
+    "path": "skills/browser-use"
+  },
+  {
+    "skill": "writing-plans",
+    "path": "skills/writing-plans"
+  },
+  {
+    "skill": "brainstorming",
+    "path": "skills/brainstorming"
+  },
+  {
+    "skill": "find-skills",
+    "path": "skills/find-skills"
+  }
+]
