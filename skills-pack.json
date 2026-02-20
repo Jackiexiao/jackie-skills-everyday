@@ -34,5 +34,17 @@
   {
     "skill": "find-skills",
     "path": "skills/find-skills"
+  },
+  {
+    "skill": "using-superpowers",
+    "path": "skills/using-superpowers"
+  },
+  {
+    "skill": "executing-plans",
+    "path": "skills/executing-plans"
+  },
+  {
+    "skill": "skill-creator",
+    "path": "skills/skill-creator"
   }
 ]
