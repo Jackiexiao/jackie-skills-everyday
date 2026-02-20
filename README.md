@@ -9,42 +9,18 @@
 npx skills add Jackiexiao/jackie-skills-everyday --all
 ```
 
-> 这条命令适用于几乎所有主流 AI 编程工具（Claude Code / Codex / Trae / OpenClaw 等）。
+> 适用于几乎所有主流 AI 工具（Claude Code / Codex / Trae / OpenClaw 等）。
 
-## 这套适合谁
+## 包含技能（16）+ 示例
 
-- 非技术用户、运营、学生、职场办公人群
-- 想要“少折腾，马上用”的效率提升方案
+- `pdf` / `docx` / `xlsx` / `pptx`：文档全流程处理
+- `agent-browser` / `browser-use`：网页自动化执行
+- `writing-plans` / `brainstorming` / `executing-plans`：任务拆解与推进
+- `find-skills` / `using-superpowers` / `skill-creator`：找技能、提效率、封装经验
+- `baoyu-url-to-markdown`：网页一键转 Markdown
+- `baoyu-markdown-to-html`：Markdown 一键转 HTML
+- `baoyu-format-markdown`：Markdown 排版整理
+- `just-scrape`：网页内容抓取
 
-## 包含技能（12）+ 直接可用示例
-
-- `pdf`：PDF 提取/合并/拆分/OCR
-  - 示例：`把这 3 个 PDF 合并并提取目录。`
-- `docx`：Word 报告生成与编辑
-  - 示例：`把这份会议纪要整理成正式周报 docx。`
-- `xlsx`：表格清洗、计算、图表
-  - 示例：`把销售表按地区汇总并生成图表。`
-- `pptx`：快速生成汇报材料
-  - 示例：`把这份产品方案生成 10 页 PPT 大纲。`
-- `agent-browser`：浏览器自动化操作
-  - 示例：`打开目标网站，登录后抓取订单列表。`
-- `browser-use`：通用网页流程执行
-  - 示例：`自动填写这个表单并截图提交结果。`
-- `writing-plans`：多步骤任务先规划
-  - 示例：`把“搬家”拆成 2 周执行计划和清单。`
-- `brainstorming`：快速发散思路
-  - 示例：`给我 30 个副业方向，按启动成本分组。`
-- `find-skills`：按需求找技能
-  - 示例：`我想做播客剪辑，有哪些 skill 最合适？`
-- `using-superpowers`：会话流程提效
-  - 示例：`给我一套“先分析再执行再验证”的固定工作流。`
-- `executing-plans`：按计划稳步推进
-  - 示例：`把这个执行方案拆成今天就能做的前 5 步。`
-- `skill-creator`：把经验沉淀成可复用 skill
-  - 示例：`把我的“日报写作流程”封装成一个 skill。`
-
-## 快速用起来（3 步）
-
-1. 一键安装
-2. 先从 `pdf` / `pptx` / `agent-browser` 这类高频场景开始
-3. 固定 3-5 个你每天会用的示例，形成个人工作流
+示例：
+- `把这个网页正文提取成 Markdown，再转换成发布用 HTML。`

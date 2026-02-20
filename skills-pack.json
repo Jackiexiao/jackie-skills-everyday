@@ -46,5 +46,21 @@
   {
     "skill": "skill-creator",
     "path": "skills/skill-creator"
+  },
+  {
+    "skill": "baoyu-url-to-markdown",
+    "path": "skills/baoyu-url-to-markdown"
+  },
+  {
+    "skill": "baoyu-markdown-to-html",
+    "path": "skills/baoyu-markdown-to-html"
+  },
+  {
+    "skill": "baoyu-format-markdown",
+    "path": "skills/baoyu-format-markdown"
+  },
+  {
+    "skill": "just-scrape",
+    "path": "skills/just-scrape"
   }
 ]
